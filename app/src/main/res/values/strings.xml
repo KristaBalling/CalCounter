@@ -12,4 +12,5 @@
     <string name="food_items_num">Food Items: </string>
     <string name="title_activity_display">DisplayActivity</string>
     <string name="title_activity_display_foods">activity_display_foods</string>
+    <string name="title_activity_food_item_details">FoodItemDetailsActivity</string>
 </resources>
